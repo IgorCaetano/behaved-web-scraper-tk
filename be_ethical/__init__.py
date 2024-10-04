@@ -1,0 +1,1 @@
+from .learning_the_rules import getScrapingPossibilities,checkUrlPermission
